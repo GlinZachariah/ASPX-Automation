@@ -1,5 +1,8 @@
 # ASPX-Automation
-Fetching details from online aspx site by submitting data in the form and storing its result as csv file
+
+![Completed](https://img.shields.io/badge/status-completed-green)  ![Python](https://img.shields.io/badge/lang-python%202.7-blue)
+
+  Fetching details from online aspx site by submitting data in the form and storing its result as csv file
 
 ## Tools Required
 Python 2.7.*
